@@ -1,0 +1,2 @@
+BOT_TOKEN = "8252276215:AAF7kfaZjulvkoMFyX4RClFYJUeBLKwMAIM"
+ADMIN_ID = 7024435666  # آیدی عددی تلگرام خودت
